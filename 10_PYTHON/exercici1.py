@@ -1,0 +1,1 @@
+print("Benvingut a Barcelona Activa")
